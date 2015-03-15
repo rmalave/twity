@@ -1,0 +1,26 @@
+{
+  "name": "twity",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rmalave/twity",
+  "authors": [
+    "Rafael Malave <rafomalave@gmail.com>"
+  ],
+  "description": "Demo Microblogging App",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+          "bootstrap": "",
+          "angular": "~1.2.16"
+            
+  }
+}
